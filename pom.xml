@@ -3,10 +3,10 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.intellect</groupId>
-	<artifactId>clarityseed</artifactId>
+	<artifactId>CashCoreUI</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
-	<name>clarityseed</name>
+	<name>CashCoreUI</name>
 	<description>Demo project for Spring Boot</description>
     <!-- Plugin to copy the content of /angular/dist/ directory to output directory (ie/ /target/transactionManager-1.0/) -->
 	
