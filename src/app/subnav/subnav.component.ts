@@ -3,7 +3,7 @@ import { Component, OnInit, ViewEncapsulation, Output, EventEmitter } from '@ang
 @Component({
   selector: 'sub-nav',
   templateUrl: './subnav.component.html',
-  styleUrls: ['./subnav.component.scss']
+  styleUrls: []
 })
 export class SubnavComponent implements OnInit {
 
