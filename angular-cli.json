@@ -16,14 +16,11 @@
      ],
     "apps": [
         {
-            "root": "src",
+            "root": "src/app/",
             "outDir": "dist",
             "assets": [
                 "images",
-                "favicon.ico",
-                "/app/side-nav/",
-                "/app/side-nav/",
-              "web.config"
+                "favicon.ico"
             ],
             "index": "index.html",
             "main": "main.ts",
