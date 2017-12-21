@@ -16,7 +16,7 @@
      ],
     "apps": [
         {
-            "root": "src/app/",
+            "root": "src/",
             "outDir": "dist",
             "assets": [
                 "images",
@@ -26,7 +26,7 @@
             "main": "main.ts",
             "test": "test.ts",
             "tsconfig": "tsconfig.json",
-            "prefix": "cashCoreApp",
+            "prefix": "CashCoreUI",
             "mobile": false,
             "styles": [
                 "../node_modules/clarity-icons/clarity-icons.min.css",
