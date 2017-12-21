@@ -3,7 +3,7 @@ import { Component, OnInit, ViewEncapsulation, Input, Output, EventEmitter } fro
 @Component({
   selector: 'side-nav',
   templateUrl: './side-nav.component.html',
-  styleUrls: ['./side-nav.component.scss']
+  styleUrls: []
 })
 export class SideNavComponent implements OnInit {
 
