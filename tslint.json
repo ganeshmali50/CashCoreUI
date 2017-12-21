@@ -70,6 +70,8 @@
       }
     ],
     "variable-name": false,
+    "noUnusedLocals": false,
+    "noUnusedParameters": false,
     "whitespace": [
       true,
       "check-branch",
