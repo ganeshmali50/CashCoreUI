@@ -3,7 +3,7 @@ import { Component, OnInit, ViewEncapsulation } from '@angular/core';
 @Component({
   selector: 'cashCoreApp-test',
   templateUrl: './test.component.html',
-  styleUrls: ['./test.component.scss'],
+  styleUrls: [],
   encapsulation: ViewEncapsulation.None
 })
 export class TestComponent implements OnInit {
