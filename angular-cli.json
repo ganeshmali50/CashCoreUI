@@ -21,7 +21,7 @@
             "assets": [
                 "images",
                 "favicon.ico",
-                "assets",
+                "/app/side-nav/",
               "web.config"
             ],
             "index": "index.html",
