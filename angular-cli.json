@@ -1,7 +1,7 @@
 {
     "project": {
         "version": "1.0.0",
-        "name": "cash-core"
+        "name": "CashCoreUI"
     },
     "lint": [
         {
